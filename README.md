@@ -16,4 +16,4 @@
 
 ## Output :
 
-Uploaded in results folder
+[!Result](https://github.com/Yashprime1/Competitions-HASHCODE20221/tree/main/Results?raw=true)
