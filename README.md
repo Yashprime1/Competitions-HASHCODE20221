@@ -2,7 +2,7 @@
 
 ## Question :
 
-1. Uploaded in problems folder
+[!Problem](https://github.com/Yashprime1/Competitions-HASHCODE20221/tree/main/Problem)
 
 ## How I implemented it in short :
 
